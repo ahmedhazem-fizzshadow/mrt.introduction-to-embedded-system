@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    
+    float x,y,z;
+    int a,b,c;
+    printf("enter 2 veriables \n");
+    a=x;
+    b=y;
+   scanf("%f",&x);
+  scanf("%f",&y);
+printf("x-y = %f\n",x-y);
+printf("x+y = %f\n",x+y);
+printf("x*y = %f\n",x*y);
+printf("x/y = %f\n",x/y);
+printf("x%y = %d\n",a%b);
+
+
+
+    return 0;
+}
