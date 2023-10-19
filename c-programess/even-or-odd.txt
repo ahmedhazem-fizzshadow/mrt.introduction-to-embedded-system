@@ -1,0 +1,16 @@
+#define cout printf
+#define cin scanf("%d"
+#include <stdio.h>
+//i was trying the define function
+int main() {
+  int x;
+    cout("pls enter a number \n");
+    cin,&x);
+    if (x ==0)
+    {cout("the number is 0");}
+    else if (x % 2 == 0)
+    {cout("the number is even");}
+    else {cout("the number is odd");}
+
+    return 0;
+}

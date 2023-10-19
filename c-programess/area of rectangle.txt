@@ -1,0 +1,19 @@
+#define cout printf
+#define cin scanf("%f"
+#include <stdio.h>
+//i was trying the define function
+int main() {
+  float length,width;
+    cout("pls enter the length and the width of the rectangle\n");
+    cin,&length);
+    cin,&width);
+    float area = length * width;
+    cout("the area of the rectangle is : %f\n",area);
+    
+    
+    
+    
+    
+
+    return 0;
+}

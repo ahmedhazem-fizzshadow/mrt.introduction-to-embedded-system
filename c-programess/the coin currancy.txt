@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main() {
+  int amount, remainingAmount;
+  int coins[5] = {50, 25, 10, 5, 1};
+  int coinCount[5] = {0};
+
+  printf("Enter the amount to be paid: ");
+  scanf("%d", &amount);
+
+  for (int i = 0; i < 5; i++) {
+    while (amount >= coins[i]) {
+      amount -= coins[i];//means that amount=amount-coins
+      coinCount[i]++;
+    }
+  }
+
+  printf("Coins used:\n");
+  for (int i = 0; i < 5; i++) {
+    if (coinCount[i] > 0) {
+      printf("%d x %d\n", coinCount[i], coins[i]);
+    }
+  }
+
+  return 0;
+}

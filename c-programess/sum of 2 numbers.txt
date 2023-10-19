@@ -1,0 +1,19 @@
+#define cout printf
+#define cin scanf("%f"
+#include <stdio.h>
+//i was trying the define function
+int main() {
+  float x,y;
+    cout("pls enter integer number1 and integer number 2 \n");
+    cin,&x);
+    cin,&y);
+    float z =x+y;
+    cout("the sum is is : %f\n",z);
+    
+    
+    
+    
+    
+
+    return 0;
+}
