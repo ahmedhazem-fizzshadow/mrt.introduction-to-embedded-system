@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() {
+
+int income;
+printf("enter your income\n ");
+scanf("%d",&income);
+
+if (income<=7000)
+{printf("the tax is exempted");}
+
+if (income>7000 && income<=20000)
+{printf("the tax is 10 percent");}
+
+if (income>20000 && income<=45000)
+{printf("the tax is 15 percent");}
+
+if (income>45000 && income<=200000)
+{printf("the tax is 20 percent");}
+
+if (income>200000)
+{printf("the tax is 40 percent");}
+
+    return 0;
+    }
