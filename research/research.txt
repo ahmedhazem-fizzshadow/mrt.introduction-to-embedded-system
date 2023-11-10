@@ -1,0 +1,22 @@
+Servo motors are a type of actuator that can rotate with great precision. They are used in a wide variety of applications, including robotics, drones, and model airplanes.
+
+Servo motors work by using a feedback loop to control the position of the motor shaft. The feedback loop consists of a potentiometer, a control circuit, and a motor. The potentiometer measures the current position of the motor shaft. The control circuit compares the measured position to the desired position and sends a signal to the motor to adjust its position.
+
+Servo motors are very precise and can be controlled to very specific positions. They are also very durable and can withstand a lot of wear and tear.
+
+Robotic Applications for Servo Motors
+There are many robotic applications for servo motors. Some of the most common include:
+
+Robotic arms: Servo motors are used to control the movement of the joints in robotic arms. This allows robots to perform a wide variety of tasks, such as picking up objects, assembling products, and performing surgery.
+
+Mobile robots: Servo motors are used to control the movement of wheels or tracks in mobile robots. This allows robots to move around their environment and interact with objects.
+
+Humanoid robots: Servo motors are used to control the movement of the joints in humanoid robots. This allows humanoid robots to walk, talk, and interact with humans in a natural way.
+
+Here are some examples of how servo motors are used in robotics:
+
+The Curiosity rover uses servo motors to control the movement of its arm and mast.
+The Robonaut 2 is a humanoid robot that uses servo motors to move its arms, legs, and head.
+The DaVinci Surgical System is a robotic surgical system that uses servo motors to control the movement of its surgical instruments.
+The DJI Phantom 4 is a drone that uses servo motors to control the movement of its propellers.
+The Traxxas E-Revo is a model airplane that uses servo motors to control the movement of its control surfaces.
